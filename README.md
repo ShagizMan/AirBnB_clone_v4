@@ -156,6 +156,5 @@ No known bugs at this time.
 ## Authors
 Daniel Shibabaw - [Github](https://github.com/ShagizMan)  
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
