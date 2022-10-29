@@ -154,6 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Joy Gundu - [Github](https://github.com/Joiejoie1)
 Daniel Shibabaw - [Github](https://github.com/ShagizMan)  
 
 ## License
